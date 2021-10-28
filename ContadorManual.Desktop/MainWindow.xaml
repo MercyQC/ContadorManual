@@ -41,5 +41,6 @@
                 MinWidth="60"
                 x:Name="SalirButton"
                 Click="SalirButton_Click"/>
+           
     </StackPanel>
 </Window>

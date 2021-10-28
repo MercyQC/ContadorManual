@@ -25,7 +25,7 @@ namespace ContadorManual.Desktop
         public MainWindow()
         {
             InitializeComponent();
-            _Conteo = 1; 
+            _Conteo = 0; 
             ConteoLabel.Content = _Conteo;
 
         }
